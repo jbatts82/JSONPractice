@@ -25,6 +25,7 @@
     return self;
 }
 
+//this happens when the view loads
 - (void)viewDidLoad
 {
     [super viewDidLoad];
